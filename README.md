@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can run this app by clicking this link: https://exam-project-vert.vercel.app/
 
 ### `npm start`
 
